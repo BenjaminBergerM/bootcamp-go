@@ -1,4 +1,4 @@
-module github.com/BenjaminBergerM/go-meli-exercise
+module github.com/BenjaminBergerM/bootcamp-go
 
 go 1.15
 

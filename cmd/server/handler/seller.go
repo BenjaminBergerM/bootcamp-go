@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/BenjaminBergerM/go-meli-exercise/internal/domain"
+	"github.com/BenjaminBergerM/bootcamp-go/internal/domain"
 
 	"github.com/gin-gonic/gin"
 )

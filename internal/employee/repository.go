@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"errors"
 
-	"github.com/BenjaminBergerM/go-meli-exercise/internal/domain"
+	"github.com/BenjaminBergerM/bootcamp-go/internal/domain"
 )
 
 // Repository encapsulates the storage of a employee.
